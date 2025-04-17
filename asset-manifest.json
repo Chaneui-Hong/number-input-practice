@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/number-input-practice/static/css/main.919fe2be.css",
-    "main.js": "/number-input-practice/static/js/main.a79a9caf.js",
+    "main.css": "/number-input-practice/static/css/main.59ce16ba.css",
+    "main.js": "/number-input-practice/static/js/main.026868d7.js",
     "index.html": "/number-input-practice/index.html",
-    "main.919fe2be.css.map": "/number-input-practice/static/css/main.919fe2be.css.map",
-    "main.a79a9caf.js.map": "/number-input-practice/static/js/main.a79a9caf.js.map"
+    "main.59ce16ba.css.map": "/number-input-practice/static/css/main.59ce16ba.css.map",
+    "main.026868d7.js.map": "/number-input-practice/static/js/main.026868d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.919fe2be.css",
-    "static/js/main.a79a9caf.js"
+    "static/css/main.59ce16ba.css",
+    "static/js/main.026868d7.js"
   ]
 }
