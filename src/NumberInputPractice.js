@@ -132,7 +132,7 @@ export default function NumberInputPractice() {
             ref={inputRef}
             type="text"
             inputMode="numeric"
-            pattern="\d{5}"
+            pattern="\\d{5}"
             maxLength={5}
             value={userInput}
             onChange={(e) => setUserInput(e.target.value)}
@@ -154,7 +154,7 @@ export default function NumberInputPractice() {
               type="button"
               key={idx}
               onClick={() => setSelectedDate(date)}
-              className={\`text-sm underline mb-1 \${selectedDate === date ? 'text-blue-600 font-semibold' : 'text-black'}\`}
+              className={\\`text-sm underline mb-1 \\${selectedDate === date ? 'text-blue-600 font-semibold' : 'text-black'}\\`}
             >
               {date}
             </button>
